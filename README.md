@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-lettre-damour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Une Lettre D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-lettre-damour/) |
+| **Get License** | [License this song: Une Lettre D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-lettre-damour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2db4383354c09038907056422e110e8657e9a193233761f09b4af41ed7ccb798` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
